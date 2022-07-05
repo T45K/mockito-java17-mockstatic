@@ -22,9 +22,7 @@ dependencies {
 
     testImplementation("org.mockito:mockito-inline:4.6.1")
     testImplementation("org.mockito:mockito-core:4.6.1")
-    testImplementation("net.bytebuddy:byte-buddy:1.12.12")
     implementation("org.apache.commons:commons-lang3:3.12.0")
-
 
     // This dependency is used by the application.
     implementation("com.google.guava:guava:30.1.1-jre")
